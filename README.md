@@ -8,13 +8,14 @@
 # General
 
 - [x] Git Basics
-- [ ] Linux CLI and Networking
+- [x] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 
 ## Git Basics
 Все було абсолютно новим для мене і достатньо заплутаним спочатку. Зізнаюсь, лекції на Coursera довелось передивлятись по 2-3 рази, щоб хоч трішки розібратись з теорією "на пальцях", але без цього нікуди. Зроблено!
 
 <details>
+
 <summary>Week 1</summary>
 
 ![image-link](folder_General/Week_1_Git.png)
@@ -22,16 +23,17 @@
 </details>
 
 <details>
+
 <summary>Week 2</summary>
 
 ![image-link](folder_General/Week_2_Git.png)
 
 </details>
 
-
 А от виконання практичних вправ на learngitbranching - це вже інша справа) Окрім того, що все стало зрозумілішим, та ще й з'явився азарт, коли після вдалого проходження завдання вводив reset і починав заново, щоб добитись бажаного результату у визначену кількість кроків. Фуууух)
 
 <details>
+
 <summary>Foundations</summary>
 
 ![image-link](folder_General/Foundations.png)
@@ -39,12 +41,50 @@
 </details>
 
 <details>
+
 <summary>Remote repositories</summary>
 
 ![image-link](folder_General/Remote_repositories.png)
 
 </details>
 
+## Linux CLI and HTTP
+
+Поки що Linux виявився для мене найзрозумілішою темою. Цьому дуже посприяло те, що команди мають логічний синтаксис, а також практика після кожного блоку - це прямо гуд! Зрозумів для себе, що найкраще сприймаю і засвоюю інформацію саме в такій комбінації "теорія+практика".
+
+<details>
+
+<summary>Quiz 1</summary>
+
+![image-link](task_linux_cli/Quiz_1.png)
+
+</details>
+
+<details>
+
+<summary>Quiz 2</summary>
+
+![image-link](task_linux_cli/Quiz_2.png)
+
+</details>
+
+<details>
+
+<summary>Quiz 3</summary>
+
+![image-link](task_linux_cli/Quiz_3.png)
+
+</details>
+
+<details>
+
+<summary>Quiz 4</summary>
+
+![image-link](task_linux_cli/Quiz_4.png)
+
+</details>
+
+А от HTTP дався достатньо важко (та й чи дався - це питання). Багато інформації, термінів. Розумію, що потрібно це переварити і десь почати розглядати вже в практичному ключі, щоб потім повернутись до теорії ще раз. Почитав також додаткові матеріали, які рекомендувались в статті - стало ще гірше)) Але нічого не дається одразу - працюємо!
 
 
 # Front-End Basics
