@@ -127,11 +127,29 @@
 
 # Front-End Basics
 
-- [ ] Intro to HTML & CSS
+- [x] Intro to HTML & CSS
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
+
+## Intro to HTML and CSS
+
+Обидві теми виявились достаньо зрозумілими та доступними в матеріалах. Дуже сподобалось, що буквально кожний аспект пояснювався окремо і одразу з прикладами. Неймовірно захопив CSS. Я й гадки не мав, що всю візуальну магію робить саме цей "негідник") P.S. Боюсь уявити, що ж там буде із JS.
+
+<details>
+
+<summary>Week 1</summary>
+![image-link](task_html_css_intro/Week_1_HTML.png)
+
+</details>
+
+<details>
+
+<summary>Week 2</summary>
+![image-link](task_html_css_intro/Week_1_CSS.png)
+
+</details>
 
 # Advanced Topics
 
