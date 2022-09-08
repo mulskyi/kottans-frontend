@@ -91,7 +91,7 @@
 # Front-End Basics
 
 - [x] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -115,6 +115,20 @@
 <details>
 <summary>Codecademy</summary>
   <img src="./task_html_css_intro/CSS_HTML.png">
+</details>
+
+## Responsive Web Design
+
+Дуже сподобався цей блок, як самою темою, так і підходом до підбору навчальних матеріалів. Компонування теоретичного матеріалу від "Фрілансер по життю" та практичних завдань в ігровій формі дуже зайшло: по-перше, дозволило запам'ятати нові команди, по-друге (що напевно важливіше), допомогло з розумінням як ці команди реалізуються. Зокрема візуалізація Grid в грі дозволила зрозуміти як на практиці будуть виглядати "grid-template" і варіант, коли ми одночасно використовуємо "%"+"px"+"fr" - це було дещо важко зрозуміти в теорії, а от в практиці виявилось ОК. 
+
+<details>
+<summary>Flexbox Froggy</summary>
+ <img src="./task_responsive_web_design/FLEXBOXFROGGY.png">
+</details>
+
+<details>
+<summary>Grid Garden</summary>
+  <img src="./task_responsive_web_design/GRIDGARDEN.png">
 </details>
 
 # Advanced Topics
